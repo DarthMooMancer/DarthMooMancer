@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I have a couple of repos for dotfiles.
 - 🌱 I’m always learning new technologies and improving my skills.
 - 🤔 I’m looking for help with collaborative projects and innovative ideas.
-- 📫 How to reach me: [Outlook.com](Haynes.a763@outlook.com)
+- 📫 How to reach me: [Gmail](Haynes.a467gmail.com)
 
 ## 🛠 Tech Stack
 
