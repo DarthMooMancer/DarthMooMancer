@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🌟 About Me
 I am a softmore in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). 
 
-- **Want to learn**: Docker and Bash/Zsh
+- **Want to learn**: Docker and Rust (That will be some time, I don't think I will leave C++ for some time)
 - **Current Focus**: Learning **C/C++** with making things like snake in the terminal (eventually it will be a public repo).
 - **Always**: Looking for and to help with projects (hint.hint my polydev project)
 
