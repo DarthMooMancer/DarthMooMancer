@@ -9,31 +9,29 @@ I am a softmore in highschool who wants to study in software development, make a
 - **Current Focus**: Learning **C/C++** with making things like snake in the terminal (eventually it will be a public repo).
 - **Always**: Looking for and to help with projects (hint.hint my polydev project)
 
-## Featured Projects
+## Featuring my many Dotfiles
 
 Here are some of the most impactful projects I've worked on:
 
-1. **[Polydev](https://github.com/DarthMooMancer/Polydev)**  
-   A Neovim plugin designed for project management, supporting multiple languages and evolving based on user feedback.
-
-2. **[env](https://github.com/DarthMooMancer/env)**  
+1. **[env](https://github.com/DarthMooMancer/env)**  
    My current dotfiles folder for both Macos and Linux (main branch is old just macos and env is both).
 
-3. **[Dwm-Dots](https://github.com/DarthMooMancer/Dwm-Dots)**  
+2. **[Dwm-Dots](https://github.com/DarthMooMancer/Dwm-Dots)**  
    A curated repository for **dwm** dotfiles, optimized for simplicity, speed, and efficiency.
 
-4. **[i3-Dots](https://github.com/DarthMooMancer/i3-Dots)**  
+3. **[i3-Dots](https://github.com/DarthMooMancer/i3-Dots)**  
    Stable and fast configurations for the i3 window manager, tailored for productivity, it is the simplest and most organized of my dotfiles.
 
-5. **[Hypr-Dots](https://github.com/DarthMooMancer/Hypr-Dots)**  
+4. **[Hypr-Dots](https://github.com/DarthMooMancer/Hypr-Dots)**  
    A Wayland configuration repository with a focus on **Hyprland**, showcasing advanced features.
 
 ## Stats and Activity
 
--- I infact do not know anything about web dev, some friends and I are vibe coding the shiz out of a app for school
+> I infact do not know anything about web dev, some friends and I are vibe coding the shiz out of a app for school
 
 ![DarthMooMancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMooMancer&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMooMancer&layout=compact&theme=radical)
+![Check out Polydev!](https://github-readme-stats.vercel.app/api/pin?username=DarthMooMancer&repo=Polydev&theme=dark)
 
 ### Where to contact me:
 Gmail: [Haynes.a467@gmail.com](Haynes.a467gmail.com)
