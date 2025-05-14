@@ -35,4 +35,5 @@ Here are some of the most impactful projects I've worked on:
 ![DarthMooMancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMooMancer&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMooMancer&layout=compact&theme=radical)
 
-[Gmail](Haynes.a467gmail.com)
+### Where to contact me:
+Gmail: [Haynes.a467@gmail.com](Haynes.a467gmail.com)
