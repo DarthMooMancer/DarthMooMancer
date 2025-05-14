@@ -30,6 +30,8 @@ Here are some of the most impactful projects I've worked on:
 
 ## Stats and Activity
 
+-- I infact do not know anything about web dev, some friends and I are vibe coding the shiz out of a app for school
+
 ![DarthMooMancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMooMancer&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMooMancer&layout=compact&theme=radical)
 
