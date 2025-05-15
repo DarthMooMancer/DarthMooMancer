@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
 
 ## 🌟 About Me
-I am a softmore in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). 
+I am a softmore in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). I have no web development experience. Any you see is vibe coded with friends for fun.
 
 - **Want to learn**: Docker and Rust (That will be some time, I don't think I will leave C++ for some time)
 - **Current Focus**: Learning **C/C++** with making things like snake in the terminal (eventually it will be a public repo).
@@ -27,12 +27,10 @@ Here are some of the most impactful projects I've worked on:
 
 ## Stats and Activity
 
-> [Check out Polydev!<br>![Check out Polydev!](https://github-readme-stats.vercel.app/api/pin?username=DarthMooMancer&repo=Polydev&theme=dark)](https://github.com/DarthMooMancer/Polydev)
+[![Polydev](https://github-readme-stats.vercel.app/api/pin?username=DarthMooMancer&repo=Polydev&theme=onedark)](https://github.com/DarthMooMancer/Polydev)
 
-> I infact do not know anything about web dev, some friends and I are vibe coding the shiz out of a app for school
-
-![DarthMooMancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMooMancer&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMooMancer&layout=compact&theme=radical)
+![DarthMooMancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthMooMancer&show_icons=true&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthMooMancer&layout=compact&theme=onedark)
 
 ### Where to contact me:
 Gmail: [Haynes.a467@gmail.com](Haynes.a467gmail.com)
