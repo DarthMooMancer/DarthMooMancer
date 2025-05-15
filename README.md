@@ -1,7 +1,3 @@
-# Hello there, I'm DarthMooMancer!
-
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here's a little bit about me:
-
 ## 🌟 About Me
 I am a softmore in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). I have no web development experience. Any you see is vibe coded with friends for fun.
 
