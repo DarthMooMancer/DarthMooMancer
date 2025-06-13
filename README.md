@@ -1,5 +1,5 @@
 ## 🌟 About Me
-I am a sophomore in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). I have no web development experience. Any you see is vibe coded with friends for fun.
+I am a junior in highschool who wants to study in software development, make a game engine (maybe), and go insane when I see java. I use neovim for development (it't just objectively better than anything else), I use tmux, and know a few languages (Python - mainly pygame, Java - Thanks APCS, and learning C/C++ everyday). I use Arch linux btw (Desktop) and Macos (Laptop). I have used Arch for 5 years or so now (as of 5/14/2025). I have no web development experience. Any you see is vibe coded with friends for fun.
 
 - **Want to learn**: Docker and Rust (That will be some time, I don't think I will leave C++ for some time)
 - **Current Focus**: Learning **C/C++** with making things like snake in the terminal (eventually it will be a public repo).
