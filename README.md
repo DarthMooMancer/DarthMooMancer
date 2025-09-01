@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am a Junior in High school learning c/c++ on the side. I plan to go into cybersecurity. I use Gentoo and MacOS btw! I use neovim and tmux as they are the best wombo combo!
 
 
 ## 🌐 Socials:
