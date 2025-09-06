@@ -2,19 +2,16 @@ name: Update DEV.to posts in README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 * * * *'  # every hour
+  workflow_dispatch:      # manual trigger
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repo and allow push via GITHUB_TOKEN
+      # 1. Checkout the repo
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
 
       # 2. Fetch latest 5 DEV.to posts
       - name: Fetch DEV.to posts
@@ -22,7 +19,7 @@ jobs:
           curl -s https://dev.to/api/articles?username=darthmoomancer \
             | jq -r '.[0:5] | .[] | "- [\(.title)](\(.url))"' > POSTS.md
 
-      # 3. Replace section in README between <!-- DEVTO-START --> and <!-- DEVTO-END -->
+      # 3. Update README section
       - name: Update README
         run: |
           awk '
@@ -32,11 +29,14 @@ jobs:
           ' README.md > README.tmp
           mv README.tmp README.md
 
-      # 4. Commit and push changes
+      # 4. Commit and push using PAT
       - name: Commit & Push
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/DarthMooMancer/DarthMooMancer.git
           git add README.md
           git commit -m "Update DEV.to posts" || echo "No changes"
-          git push
+          git push origin main
