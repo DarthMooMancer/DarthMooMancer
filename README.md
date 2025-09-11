@@ -1,4 +1,4 @@
-# DarthMooMancer
+# DarthMooMancer (dmm)
 `High School Student (Junior)`
 
 - I am Currently learning c/c++ on the side.
